@@ -17,4 +17,3 @@ while True:
     clock.tick(60)
 
     print("test")
-    zbi
